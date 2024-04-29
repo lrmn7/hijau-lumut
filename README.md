@@ -1,4 +1,4 @@
-# 🌳 Auto Commit / 🌳 Hijau lumut
+# 🌳 Auto Commit
 
 [![Auto Commit](https://github.com/lrmn7/hijau-lumut/actions/workflows/autocommit.yml/badge.svg)](https://github.com/lrmn7/hijau-lumut/actions/workflows/autocommit.yml)
 
