@@ -8,7 +8,7 @@ ___
 
 ## How to use
 
-1. [Fork this repository](https://github.com/Vann-Dev/auto-commits/fork)
+1. [Fork this repository](https://github.com/lrmn7/hijau-lumut)
 2. You are done, just wait the auto commit run by it self
 ---
 
